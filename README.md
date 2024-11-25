@@ -43,6 +43,7 @@ Data Analyst passionnée par l'extraction et l'analyse de données, spécialisé
 ## 📚 Formation
 - **Master Data Analytics** - Sorbonne Panthéon Paris 1 (En cours)
 - **Data Analyst RNCP niveau 6 (Bac+4)** - OpenClassrooms ENSAE Paris (2024)
+- **Maîtrise en marketing** - ESSEC (2009)
 
 ## 🎯 Projets Data Réalisés
 
